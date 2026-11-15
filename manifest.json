@@ -1,0 +1,9 @@
+{
+  "id": "my-first-plugin",
+  "name": "My First Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Example plugin",
+  "author": "You",
+  "isDesktopOnly": false
+}
