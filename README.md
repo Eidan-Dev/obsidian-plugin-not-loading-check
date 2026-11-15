@@ -1,0 +1,1 @@
+# obsidian-plugin-not-loading-check
